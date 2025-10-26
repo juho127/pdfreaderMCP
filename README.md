@@ -87,3 +87,9 @@ pip install pymupdf
 
 설정 변경 후 Cursor를 재시작하면 새로운 MCP 서버가 활성화됩니다.
 
+## License
+
+MIT License - 자유롭게 사용, 수정, 배포 가능합니다.
+
+자세한 내용은 [LICENSE](LICENSE) 파일을 참고하세요.
+
